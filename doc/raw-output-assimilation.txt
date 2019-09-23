@@ -1,0 +1,637 @@
+elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-F/fst.txt scratch/report-F
+Suffix: M1-M3-0: 0.815	Suffix: M1|M3-0: 0.185	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.09e-05	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.09e-05	
+Suffix: M1-M3-0: 0.731	Suffix: M1|M3-0: 0.269	
+Suffix: M1-M3-0: 0.72	Suffix: M1|M3-0: 0.28	
+Suffix: M1-M3-0: 0.555	Suffix: M1|M3-0: 0.445	
+Suffix: M1-M3-0: 0.622	Suffix: M1|M3-0: 0.378	
+Suffix: M1-M3-0: 0.621	Suffix: M1|M3-0: 0.379	
+Suffix: M1-M3-0: 0.956	Suffix: M1|M3-0: 0.0437	
+Suffix: M1-M3-0: 0.761	Suffix: M1|M3-0: 0.239	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.09e-05	
+Suffix: M1-M3-0: 0.811	Suffix: M1|M3-0: 0.189	
+Suffix: M1-M3-0: 0.785	Suffix: M1|M3-0: 0.215	
+Suffix: M1-M3-0: 0.756	Suffix: M1|M3-0: 0.244	
+Suffix: M1-M3-0: 0.778	Suffix: M1|M3-0: 0.222	
+Suffix: M1-M3-0: 0.699	Suffix: M1|M3-0: 0.301	
+Suffix: M1-M3-0: 0.708	Suffix: M1|M3-0: 0.292	
+Suffix: M1-M3-0: 0.81	Suffix: M1|M3-0: 0.19	
+Suffix: M1-M3-0: 0.101	Suffix: M1|M3-0: 0.899	
+Suffix: M1-M3-0: 0.596	Suffix: M1|M3-0: 0.404	
+0 files
+--------Total (suffixes)----------
+M1-M3-0: 0.741
+M1|M3-0: 0.259
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-G/fst.txt scratch/report-G
+Suffix: M1-M3-0: 0.823	Suffix: M1|M3-0: 0.177	
+Suffix: M1-M3-0: 0.647	Suffix: M1|M3-0: 0.353	
+Suffix: M1-M3-0: 0.588	Suffix: M1|M3-0: 0.412	
+Suffix: M1-M3-0: 0.594	Suffix: M1|M3-0: 0.406	
+Suffix: M1-M3-0: 0.802	Suffix: M1|M3-0: 0.198	
+Suffix: M1-M3-0: 0.868	Suffix: M1|M3-0: 0.132	
+Suffix: M1-M3-0: 0.792	Suffix: M1|M3-0: 0.208	
+Suffix: M1-M3-0: 0.814	Suffix: M1|M3-0: 0.186	
+Suffix: M1-M3-0: 0.701	Suffix: M1|M3-0: 0.299	
+Suffix: M1-M3-0: 0.671	Suffix: M1|M3-0: 0.329	
+Suffix: M1-M3-0: 0.652	Suffix: M1|M3-0: 0.348	
+Suffix: M1-M3-0: 0.443	Suffix: M1|M3-0: 0.557	
+Suffix: M1-M3-0: 0.787	Suffix: M1|M3-0: 0.213	
+Suffix: M1-M3-0: 0.662	Suffix: M1|M3-0: 0.338	
+Suffix: M1-M3-0: 0.497	Suffix: M1|M3-0: 0.503	
+Suffix: M1-M3-0: 0.674	Suffix: M1|M3-0: 0.326	
+Suffix: M1-M3-0: 0.946	Suffix: M1|M3-0: 0.0536	
+Suffix: M1-M3-0: 0.662	Suffix: M1|M3-0: 0.338	
+Suffix: M1-M3-0: 0.547	Suffix: M1|M3-0: 0.453	
+Suffix: M1-M3-0: 0.809	Suffix: M1|M3-0: 0.191	
+0 files
+--------Total (suffixes)----------
+M1-M3-0: 0.699
+M1|M3-0: 0.301
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-G/fst.txt scratch/report-G10
+Suffix: M1-M3-0: 0.836	Suffix: M1|M3-0: 0.164	
+Suffix: M1-M3-0: 0.692	Suffix: M1|M3-0: 0.308	
+Suffix: M1-M3-0: 0.586	Suffix: M1|M3-0: 0.414	
+Suffix: M1-M3-0: 0.729	Suffix: M1|M3-0: 0.271	
+Suffix: M1-M3-0: 0.596	Suffix: M1|M3-0: 0.404	
+Suffix: M1-M3-0: 0.737	Suffix: M1|M3-0: 0.263	
+Suffix: M1-M3-0: 0.751	Suffix: M1|M3-0: 0.249	
+Suffix: M1-M3-0: 0.728	Suffix: M1|M3-0: 0.272	
+Suffix: M1-M3-0: 0.791	Suffix: M1|M3-0: 0.209	
+Suffix: M1-M3-0: 0.742	Suffix: M1|M3-0: 0.258	
+Suffix: M1-M3-0: 0.721	Suffix: M1|M3-0: 0.279	
+Suffix: M1-M3-0: 0.653	Suffix: M1|M3-0: 0.347	
+Suffix: M1-M3-0: 0.663	Suffix: M1|M3-0: 0.337	
+Suffix: M1-M3-0: 0.801	Suffix: M1|M3-0: 0.199	
+Suffix: M1-M3-0: 0.687	Suffix: M1|M3-0: 0.313	
+Suffix: M1-M3-0: 0.537	Suffix: M1|M3-0: 0.463	
+Suffix: M1-M3-0: 0.621	Suffix: M1|M3-0: 0.379	
+Suffix: M1-M3-0: 0.696	Suffix: M1|M3-0: 0.304	
+Suffix: M1-M3-0: 0.857	Suffix: M1|M3-0: 0.143	
+Suffix: M1-M3-0: 0.711	Suffix: M1|M3-0: 0.289	
+0 files
+--------Total (suffixes)----------
+M1-M3-0: 0.707
+M1|M3-0: 0.293
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-G/fst.txt scratch/report-G100
+Suffix: M1-M3-0: 0.633	Suffix: M1|M3-0: 0.367	
+Suffix: M1-M3-0: 0.622	Suffix: M1|M3-0: 0.378	
+Suffix: M1-M3-0: 0.597	Suffix: M1|M3-0: 0.403	
+Suffix: M1-M3-0: 0.602	Suffix: M1|M3-0: 0.398	
+Suffix: M1-M3-0: 0.528	Suffix: M1|M3-0: 0.472	
+Suffix: M1-M3-0: 0.602	Suffix: M1|M3-0: 0.398	
+Suffix: M1-M3-0: 0.618	Suffix: M1|M3-0: 0.382	
+Suffix: M1-M3-0: 0.42	Suffix: M1|M3-0: 0.58	
+Suffix: M1-M3-0: 0.696	Suffix: M1|M3-0: 0.304	
+Suffix: M1-M3-0: 0.651	Suffix: M1|M3-0: 0.349	
+Suffix: M1-M3-0: 0.77	Suffix: M1|M3-0: 0.23	
+Suffix: M1-M3-0: 0.787	Suffix: M1|M3-0: 0.213	
+Suffix: M1-M3-0: 0.646	Suffix: M1|M3-0: 0.354	
+Suffix: M1-M3-0: 0.625	Suffix: M1|M3-0: 0.375	
+Suffix: M1-M3-0: 0.597	Suffix: M1|M3-0: 0.403	
+Suffix: M1-M3-0: 0.799	Suffix: M1|M3-0: 0.201	
+Suffix: M1-M3-0: 0.892	Suffix: M1|M3-0: 0.108	
+Suffix: M1-M3-0: 0.594	Suffix: M1|M3-0: 0.406	
+Suffix: M1-M3-0: 0.68	Suffix: M1|M3-0: 0.32	
+Suffix: M1-M3-0: 0.797	Suffix: M1|M3-0: 0.203	
+0 files
+--------Total (suffixes)----------
+M1-M3-0: 0.658
+M1|M3-0: 0.342
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-G/fst.txt scratch/report-G1000
+Suffix: M1-M3-0: 0.435	Suffix: M1|M3-0: 0.565	
+Suffix: M1-M3-0: 0.828	Suffix: M1|M3-0: 0.172	
+Suffix: M1-M3-0: 0.585	Suffix: M1|M3-0: 0.415	
+Suffix: M1-M3-0: 0.778	Suffix: M1|M3-0: 0.222	
+Suffix: M1-M3-0: 0.681	Suffix: M1|M3-0: 0.319	
+Suffix: M1-M3-0: 0.653	Suffix: M1|M3-0: 0.347	
+Suffix: M1-M3-0: 0.631	Suffix: M1|M3-0: 0.369	
+Suffix: M1-M3-0: 0.718	Suffix: M1|M3-0: 0.282	
+Suffix: M1-M3-0: 0.658	Suffix: M1|M3-0: 0.342	
+Suffix: M1-M3-0: 0.663	Suffix: M1|M3-0: 0.337	
+Suffix: M1-M3-0: 0.599	Suffix: M1|M3-0: 0.401	
+Suffix: M1-M3-0: 0.398	Suffix: M1|M3-0: 0.602	
+Suffix: M1-M3-0: 0.801	Suffix: M1|M3-0: 0.199	
+Suffix: M1-M3-0: 0.684	Suffix: M1|M3-0: 0.316	
+Suffix: M1-M3-0: 0.884	Suffix: M1|M3-0: 0.116	
+Suffix: M1-M3-0: 0.816	Suffix: M1|M3-0: 0.184	
+Suffix: M1-M3-0: 0.643	Suffix: M1|M3-0: 0.357	
+Suffix: M1-M3-0: 0.86	Suffix: M1|M3-0: 0.14	
+Suffix: M1-M3-0: 0.644	Suffix: M1|M3-0: 0.356	
+Suffix: M1-M3-0: 0.557	Suffix: M1|M3-0: 0.443	
+0 files
+--------Total (suffixes)----------
+M1-M3-0: 0.676
+M1|M3-0: 0.324
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-G/fst.txt scratch/report-G10000
+Suffix: M1-M3-0: 0.635	Suffix: M1|M3-0: 0.365	
+Suffix: M1-M3-0: 0.699	Suffix: M1|M3-0: 0.301	
+Suffix: M1-M3-0: 0.616	Suffix: M1|M3-0: 0.384	
+Suffix: M1-M3-0: 0.59	Suffix: M1|M3-0: 0.41	
+Suffix: M1-M3-0: 0.796	Suffix: M1|M3-0: 0.204	
+Suffix: M1-M3-0: 0.788	Suffix: M1|M3-0: 0.212	
+Suffix: M1-M3-0: 0.711	Suffix: M1|M3-0: 0.289	
+Suffix: M1-M3-0: 0.7	Suffix: M1|M3-0: 0.3	
+Suffix: M1-M3-0: 0.674	Suffix: M1|M3-0: 0.326	
+Suffix: M1-M3-0: 0.673	Suffix: M1|M3-0: 0.327	
+Suffix: M1-M3-0: 0.876	Suffix: M1|M3-0: 0.124	
+Suffix: M1-M3-0: 0.646	Suffix: M1|M3-0: 0.354	
+Suffix: M1-M3-0: 0.555	Suffix: M1|M3-0: 0.445	
+Suffix: M1-M3-0: 0.557	Suffix: M1|M3-0: 0.443	
+Suffix: M1-M3-0: 0.682	Suffix: M1|M3-0: 0.318	
+Suffix: M1-M3-0: 0.641	Suffix: M1|M3-0: 0.359	
+Suffix: M1-M3-0: 0.597	Suffix: M1|M3-0: 0.403	
+Suffix: M1-M3-0: 0.671	Suffix: M1|M3-0: 0.329	
+Suffix: M1-M3-0: 0.765	Suffix: M1|M3-0: 0.235	
+Suffix: M1-M3-0: 0.823	Suffix: M1|M3-0: 0.177	
+0 files
+--------Total (suffixes)----------
+M1-M3-0: 0.685
+M1|M3-0: 0.315
+
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-H0
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+R: 0.00529 -R: 0.995
+-------Total--------
+R: 0.00529 -R: 0.995
+python script/posteriorIndexOfFusion.py scratch/features-H50/fst.txt scratch/report-H0
+Suffix: M1-M3-0: 0.989	Suffix: M1|M3-0: 0.0113	
+Suffix: M1-M3-0: 0.971	Suffix: M1|M3-0: 0.0293	
+Suffix: M1-M3-0: 0.853	Suffix: M1|M3-0: 0.147	
+Suffix: M1-M3-0: 0.753	Suffix: M1|M3-0: 0.247	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.13e-05	
+Suffix: M1-M3-0: 0.923	Suffix: M1|M3-0: 0.0767	
+Suffix: M1-M3-0: 0.945	Suffix: M1|M3-0: 0.0553	
+Suffix: M1-M3-0: 0.755	Suffix: M1|M3-0: 0.245	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.13e-05	
+Suffix: M1-M3-0: 0.771	Suffix: M1|M3-0: 0.229	
+Suffix: M1-M3-0: 0.572	Suffix: M1|M3-0: 0.428	
+Suffix: M1-M3-0: 0.999	Suffix: M1|M3-0: 0.00114	
+Suffix: M1-M3-0: 0.635	Suffix: M1|M3-0: 0.365	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.13e-05	
+Suffix: M1-M3-0: 0.688	Suffix: M1|M3-0: 0.312	
+Suffix: M1-M3-0: 0.904	Suffix: M1|M3-0: 0.0958	
+Suffix: M1-M3-0: 0.672	Suffix: M1|M3-0: 0.328	
+Suffix: M1-M3-0: 0.676	Suffix: M1|M3-0: 0.324	
+Suffix: M1-M3-0: 0.494	Suffix: M1|M3-0: 0.506	
+Suffix: M1-M3-0: 0.999	Suffix: M1|M3-0: 0.00114	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.83
+M1|M3-0: 0.17
+
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-H25
+R: 0.0969 -R: 0.903
+R: 0.0926 -R: 0.907
+R: 0.121 -R: 0.879
+R: 0.0956 -R: 0.904
+R: 0.0926 -R: 0.907
+R: 0.0859 -R: 0.914
+R: 0.0819 -R: 0.918
+R: 0.0934 -R: 0.907
+R: 0.0974 -R: 0.903
+R: 0.0858 -R: 0.914
+R: 0.0936 -R: 0.906
+R: 0.0871 -R: 0.913
+R: 0.0899 -R: 0.91
+R: 0.0866 -R: 0.913
+R: 0.0902 -R: 0.91
+R: 0.0967 -R: 0.903
+R: 0.0944 -R: 0.906
+R: 0.0836 -R: 0.916
+R: 0.0823 -R: 0.918
+R: 0.121 -R: 0.879
+-------Total--------
+R: 0.0935 -R: 0.907
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-H25/fst.txt scratch/report-H25
+Suffix: M1-M3-0: 0.66	Suffix: M1|M3-0: 0.34	
+Suffix: M1-M3-0: 0.369	Suffix: M1|M3-0: 0.631	
+Suffix: M1-M3-0: 1.05e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 0.961	Suffix: M1|M3-0: 0.039	
+Suffix: M1-M3-0: 0.568	Suffix: M1|M3-0: 0.432	
+Suffix: M1-M3-0: 0.378	Suffix: M1|M3-0: 0.622	
+Suffix: M1-M3-0: 0.395	Suffix: M1|M3-0: 0.605	
+Suffix: M1-M3-0: 0.607	Suffix: M1|M3-0: 0.393	
+Suffix: M1-M3-0: 0.997	Suffix: M1|M3-0: 0.00317	
+Suffix: M1-M3-0: 0.327	Suffix: M1|M3-0: 0.673	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.05e-05	
+Suffix: M1-M3-0: 0.375	Suffix: M1|M3-0: 0.625	
+Suffix: M1-M3-0: 0.445	Suffix: M1|M3-0: 0.555	
+Suffix: M1-M3-0: 0.251	Suffix: M1|M3-0: 0.749	
+Suffix: M1-M3-0: 0.683	Suffix: M1|M3-0: 0.317	
+Suffix: M1-M3-0: 0.628	Suffix: M1|M3-0: 0.372	
+Suffix: M1-M3-0: 0.585	Suffix: M1|M3-0: 0.415	
+Suffix: M1-M3-0: 0.38	Suffix: M1|M3-0: 0.62	
+Suffix: M1-M3-0: 0.359	Suffix: M1|M3-0: 0.641	
+Suffix: M1-M3-0: 1.05e-05	Suffix: M1|M3-0: 1	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.498
+M1|M3-0: 0.502
+
+
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-H50
+R: 0.207 -R: 0.793
+R: 0.208 -R: 0.792
+R: 0.208 -R: 0.792
+R: 0.205 -R: 0.795
+R: 0.204 -R: 0.796
+R: 0.212 -R: 0.788
+R: 0.22 -R: 0.78
+R: 0.203 -R: 0.797
+R: 0.226 -R: 0.774
+R: 0.204 -R: 0.796
+R: 0.209 -R: 0.791
+R: 0.201 -R: 0.799
+R: 0.211 -R: 0.789
+R: 0.203 -R: 0.797
+R: 0.199 -R: 0.801
+R: 0.21 -R: 0.79
+R: 0.204 -R: 0.796
+R: 0.213 -R: 0.787
+R: 0.204 -R: 0.796
+R: 0.201 -R: 0.799
+-------Total--------
+R: 0.208 -R: 0.792
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-H50/fst.txt scratch/report-H50
+Suffix: M1-M3-0: 0.392	Suffix: M1|M3-0: 0.608	
+Suffix: M1-M3-0: 0.452	Suffix: M1|M3-0: 0.548	
+Suffix: M1-M3-0: 0.522	Suffix: M1|M3-0: 0.478	
+Suffix: M1-M3-0: 0.441	Suffix: M1|M3-0: 0.559	
+Suffix: M1-M3-0: 0.497	Suffix: M1|M3-0: 0.503	
+Suffix: M1-M3-0: 0.516	Suffix: M1|M3-0: 0.484	
+Suffix: M1-M3-0: 0.499	Suffix: M1|M3-0: 0.501	
+Suffix: M1-M3-0: 0.451	Suffix: M1|M3-0: 0.549	
+Suffix: M1-M3-0: 0.519	Suffix: M1|M3-0: 0.481	
+Suffix: M1-M3-0: 0.402	Suffix: M1|M3-0: 0.598	
+Suffix: M1-M3-0: 0.475	Suffix: M1|M3-0: 0.525	
+Suffix: M1-M3-0: 0.431	Suffix: M1|M3-0: 0.569	
+Suffix: M1-M3-0: 0.504	Suffix: M1|M3-0: 0.496	
+Suffix: M1-M3-0: 0.42	Suffix: M1|M3-0: 0.58	
+Suffix: M1-M3-0: 0.413	Suffix: M1|M3-0: 0.587	
+Suffix: M1-M3-0: 0.533	Suffix: M1|M3-0: 0.467	
+Suffix: M1-M3-0: 0.467	Suffix: M1|M3-0: 0.533	
+Suffix: M1-M3-0: 0.675	Suffix: M1|M3-0: 0.325	
+Suffix: M1-M3-0: 0.525	Suffix: M1|M3-0: 0.475	
+Suffix: M1-M3-0: 0.472	Suffix: M1|M3-0: 0.528	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.48
+M1|M3-0: 0.52
+
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-H75
+R: 0.285 -R: 0.715
+R: 0.278 -R: 0.722
+R: 0.273 -R: 0.727
+R: 0.303 -R: 0.697
+R: 0.25 -R: 0.75
+R: 0.3 -R: 0.7
+R: 0.27 -R: 0.73
+R: 0.303 -R: 0.697
+R: 0.305 -R: 0.695
+R: 0.286 -R: 0.714
+R: 0.291 -R: 0.709
+R: 0.288 -R: 0.712
+R: 0.287 -R: 0.713
+R: 0.288 -R: 0.712
+R: 0.276 -R: 0.724
+R: 0.253 -R: 0.747
+R: 0.263 -R: 0.737
+R: 0.303 -R: 0.697
+R: 0.28 -R: 0.72
+R: 0.279 -R: 0.721
+-------Total--------
+R: 0.283 -R: 0.717
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-H75/fst.txt scratch/report-H75
+Suffix: M1-M3-0: 0.373	Suffix: M1|M3-0: 0.627	
+Suffix: M1-M3-0: 0.145	Suffix: M1|M3-0: 0.855	
+Suffix: M1-M3-0: 0.413	Suffix: M1|M3-0: 0.587	
+Suffix: M1-M3-0: 0.301	Suffix: M1|M3-0: 0.699	
+Suffix: M1-M3-0: 0.449	Suffix: M1|M3-0: 0.551	
+Suffix: M1-M3-0: 0.367	Suffix: M1|M3-0: 0.633	
+Suffix: M1-M3-0: 0.457	Suffix: M1|M3-0: 0.543	
+Suffix: M1-M3-0: 0.326	Suffix: M1|M3-0: 0.674	
+Suffix: M1-M3-0: 0.315	Suffix: M1|M3-0: 0.685	
+Suffix: M1-M3-0: 0.415	Suffix: M1|M3-0: 0.585	
+Suffix: M1-M3-0: 0.412	Suffix: M1|M3-0: 0.588	
+Suffix: M1-M3-0: 0.426	Suffix: M1|M3-0: 0.574	
+Suffix: M1-M3-0: 0.316	Suffix: M1|M3-0: 0.684	
+Suffix: M1-M3-0: 0.434	Suffix: M1|M3-0: 0.566	
+Suffix: M1-M3-0: 0.48	Suffix: M1|M3-0: 0.52	
+Suffix: M1-M3-0: 0.513	Suffix: M1|M3-0: 0.487	
+Suffix: M1-M3-0: 0.432	Suffix: M1|M3-0: 0.568	
+Suffix: M1-M3-0: 0.29	Suffix: M1|M3-0: 0.71	
+Suffix: M1-M3-0: 0.35	Suffix: M1|M3-0: 0.65	
+Suffix: M1-M3-0: 0.374	Suffix: M1|M3-0: 0.626	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.379
+M1|M3-0: 0.621
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-H100
+R: 0.0106 -R: 0.989
+R: 0.0122 -R: 0.988
+R: 0.0106 -R: 0.989
+R: 0.0106 -R: 0.989
+R: 0.00958 -R: 0.99
+R: 0.0109 -R: 0.989
+R: 0.0172 -R: 0.983
+R: 0.0155 -R: 0.984
+R: 0.00959 -R: 0.99
+R: 0.0122 -R: 0.988
+R: 0.0136 -R: 0.986
+R: 0.0132 -R: 0.987
+R: 0.0119 -R: 0.988
+R: 0.0142 -R: 0.986
+R: 0.0146 -R: 0.985
+R: 0.0113 -R: 0.989
+R: 0.0122 -R: 0.988
+R: 0.0103 -R: 0.99
+R: 0.0132 -R: 0.987
+R: 0.0102 -R: 0.99
+-------Total--------
+R: 0.0122 -R: 0.988
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-H100/fst.txt scratch/report-H100
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 0.133	Suffix: M1|M3-0: 0.867	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 1.1e-05	Suffix: M1|M3-0: 1	
+Suffix: M1-M3-0: 0.307	Suffix: M1|M3-0: 0.693	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.022
+M1|M3-0: 0.978
+
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-I0
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+R: 0.00533 -R: 0.995
+-------Total--------
+R: 0.00533 -R: 0.995
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-I0/fst.txt scratch/report-I0
+Suffix: M1-M3-0: 0.871	Suffix: M1|M3-0: 0.129	
+Suffix: M1-M3-0: 0.894	Suffix: M1|M3-0: 0.106	
+Suffix: M1-M3-0: 0.673	Suffix: M1|M3-0: 0.327	
+Suffix: M1-M3-0: 0.79	Suffix: M1|M3-0: 0.21	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.11e-05	
+Suffix: M1-M3-0: 0.599	Suffix: M1|M3-0: 0.401	
+Suffix: M1-M3-0: 0.745	Suffix: M1|M3-0: 0.255	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.11e-05	
+Suffix: M1-M3-0: 0.858	Suffix: M1|M3-0: 0.142	
+Suffix: M1-M3-0: 0.825	Suffix: M1|M3-0: 0.175	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.11e-05	
+Suffix: M1-M3-0: 0.851	Suffix: M1|M3-0: 0.149	
+Suffix: M1-M3-0: 0.567	Suffix: M1|M3-0: 0.433	
+Suffix: M1-M3-0: 0.79	Suffix: M1|M3-0: 0.21	
+Suffix: M1-M3-0: 0.727	Suffix: M1|M3-0: 0.273	
+Suffix: M1-M3-0: 0.45	Suffix: M1|M3-0: 0.55	
+Suffix: M1-M3-0: 0.627	Suffix: M1|M3-0: 0.373	
+Suffix: M1-M3-0: 0.725	Suffix: M1|M3-0: 0.275	
+Suffix: M1-M3-0: 0.691	Suffix: M1|M3-0: 0.309	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.11e-05	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.784
+M1|M3-0: 0.216
+
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-I0/fst.txt scratch/report-I25
+Suffix: M1-M3-0: 0.684	Suffix: M1|M3-0: 0.316	
+Suffix: M1-M3-0: 0.812	Suffix: M1|M3-0: 0.188	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.04e-05	
+Suffix: M1-M3-0: 0.663	Suffix: M1|M3-0: 0.337	
+Suffix: M1-M3-0: 0.614	Suffix: M1|M3-0: 0.386	
+Suffix: M1-M3-0: 0.707	Suffix: M1|M3-0: 0.293	
+Suffix: M1-M3-0: 0.716	Suffix: M1|M3-0: 0.284	
+Suffix: M1-M3-0: 0.818	Suffix: M1|M3-0: 0.182	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.04e-05	
+Suffix: M1-M3-0: 0.0156	Suffix: M1|M3-0: 0.984	
+Suffix: M1-M3-0: 0.878	Suffix: M1|M3-0: 0.122	
+Suffix: M1-M3-0: 0.679	Suffix: M1|M3-0: 0.321	
+Suffix: M1-M3-0: 0.994	Suffix: M1|M3-0: 0.00625	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.04e-05	
+Suffix: M1-M3-0: 0.593	Suffix: M1|M3-0: 0.407	
+Suffix: M1-M3-0: 0.593	Suffix: M1|M3-0: 0.407	
+Suffix: M1-M3-0: 0.966	Suffix: M1|M3-0: 0.0343	
+Suffix: M1-M3-0: 0.979	Suffix: M1|M3-0: 0.0208	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.04e-05	
+Suffix: M1-M3-0: 0.747	Suffix: M1|M3-0: 0.253	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.773
+M1|M3-0: 0.227
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-I25
+R: 0.121 -R: 0.879
+R: 0.124 -R: 0.876
+R: 0.123 -R: 0.877
+R: 0.123 -R: 0.877
+R: 0.124 -R: 0.876
+R: 0.121 -R: 0.879
+R: 0.123 -R: 0.877
+R: 0.122 -R: 0.878
+R: 0.12 -R: 0.88
+R: 0.119 -R: 0.881
+R: 0.121 -R: 0.879
+R: 0.123 -R: 0.877
+R: 0.125 -R: 0.875
+R: 0.123 -R: 0.877
+R: 0.121 -R: 0.879
+R: 0.122 -R: 0.878
+R: 0.123 -R: 0.877
+R: 0.124 -R: 0.876
+R: 0.123 -R: 0.877
+R: 0.12 -R: 0.88
+-------Total--------
+R: 0.122 -R: 0.878
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-I0/fst.txt scratch/report-I50
+Suffix: M1-M3-0: 0.826	Suffix: M1|M3-0: 0.174	
+Suffix: M1-M3-0: 0.826	Suffix: M1|M3-0: 0.174	
+Suffix: M1-M3-0: 0.989	Suffix: M1|M3-0: 0.0114	
+Suffix: M1-M3-0: 0.998	Suffix: M1|M3-0: 0.00208	
+Suffix: M1-M3-0: 0.867	Suffix: M1|M3-0: 0.133	
+Suffix: M1-M3-0: 0.708	Suffix: M1|M3-0: 0.292	
+Suffix: M1-M3-0: 0.87	Suffix: M1|M3-0: 0.13	
+Suffix: M1-M3-0: 0.847	Suffix: M1|M3-0: 0.153	
+Suffix: M1-M3-0: 0.974	Suffix: M1|M3-0: 0.0259	
+Suffix: M1-M3-0: 0.788	Suffix: M1|M3-0: 0.212	
+Suffix: M1-M3-0: 0.652	Suffix: M1|M3-0: 0.348	
+Suffix: M1-M3-0: 0.457	Suffix: M1|M3-0: 0.543	
+Suffix: M1-M3-0: 0.893	Suffix: M1|M3-0: 0.107	
+Suffix: M1-M3-0: 0.761	Suffix: M1|M3-0: 0.239	
+Suffix: M1-M3-0: 0.641	Suffix: M1|M3-0: 0.359	
+Suffix: M1-M3-0: 0.581	Suffix: M1|M3-0: 0.419	
+Suffix: M1-M3-0: 0.946	Suffix: M1|M3-0: 0.0538	
+Suffix: M1-M3-0: 0.618	Suffix: M1|M3-0: 0.382	
+Suffix: M1-M3-0: 0.889	Suffix: M1|M3-0: 0.111	
+Suffix: M1-M3-0: 0.743	Suffix: M1|M3-0: 0.257	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.794
+M1|M3-0: 0.206
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-I50
+R: 0.193 -R: 0.807
+R: 0.209 -R: 0.791
+R: 0.204 -R: 0.796
+R: 0.21 -R: 0.79
+R: 0.219 -R: 0.781
+R: 0.198 -R: 0.802
+R: 0.2 -R: 0.8
+R: 0.204 -R: 0.796
+R: 0.207 -R: 0.793
+R: 0.206 -R: 0.794
+R: 0.196 -R: 0.804
+R: 0.204 -R: 0.796
+R: 0.207 -R: 0.793
+R: 0.217 -R: 0.783
+R: 0.203 -R: 0.797
+R: 0.191 -R: 0.809
+R: 0.208 -R: 0.792
+R: 0.212 -R: 0.788
+R: 0.215 -R: 0.785
+R: 0.199 -R: 0.801
+-------Total--------
+R: 0.205 -R: 0.795
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-I0/fst.txt scratch/report-I75
+Suffix: M1-M3-0: 0.713	Suffix: M1|M3-0: 0.287	
+Suffix: M1-M3-0: 0.664	Suffix: M1|M3-0: 0.336	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.05e-05	
+Suffix: M1-M3-0: 0.648	Suffix: M1|M3-0: 0.352	
+Suffix: M1-M3-0: 0.661	Suffix: M1|M3-0: 0.339	
+Suffix: M1-M3-0: 0.689	Suffix: M1|M3-0: 0.311	
+Suffix: M1-M3-0: 0.638	Suffix: M1|M3-0: 0.362	
+Suffix: M1-M3-0: 0.774	Suffix: M1|M3-0: 0.226	
+Suffix: M1-M3-0: 0.64	Suffix: M1|M3-0: 0.36	
+Suffix: M1-M3-0: 0.83	Suffix: M1|M3-0: 0.17	
+Suffix: M1-M3-0: 0.633	Suffix: M1|M3-0: 0.367	
+Suffix: M1-M3-0: 0.778	Suffix: M1|M3-0: 0.222	
+Suffix: M1-M3-0: 0.65	Suffix: M1|M3-0: 0.35	
+Suffix: M1-M3-0: 0.766	Suffix: M1|M3-0: 0.234	
+Suffix: M1-M3-0: 0.664	Suffix: M1|M3-0: 0.336	
+Suffix: M1-M3-0: 0.641	Suffix: M1|M3-0: 0.359	
+Suffix: M1-M3-0: 0.674	Suffix: M1|M3-0: 0.326	
+Suffix: M1-M3-0: 0.785	Suffix: M1|M3-0: 0.215	
+Suffix: M1-M3-0: 1	Suffix: M1|M3-0: 1.05e-05	
+Suffix: M1-M3-0: 0.654	Suffix: M1|M3-0: 0.346	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.725
+M1|M3-0: 0.275
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-I75
+R: 0.339 -R: 0.661
+R: 0.348 -R: 0.652
+R: 0.331 -R: 0.669
+R: 0.345 -R: 0.655
+R: 0.335 -R: 0.665
+R: 0.326 -R: 0.674
+R: 0.341 -R: 0.659
+R: 0.328 -R: 0.672
+R: 0.336 -R: 0.664
+R: 0.334 -R: 0.666
+R: 0.345 -R: 0.655
+R: 0.334 -R: 0.666
+R: 0.337 -R: 0.663
+R: 0.327 -R: 0.673
+R: 0.351 -R: 0.649
+R: 0.335 -R: 0.665
+R: 0.319 -R: 0.681
+R: 0.34 -R: 0.66
+R: 0.335 -R: 0.665
+R: 0.336 -R: 0.664
+-------Total--------
+R: 0.336 -R: 0.664
+[elsner.14@unity-1 fst]$ python script/posteriorIndexOfFusion.py scratch/features-I0/fst.txt scratch/report-I100
+Suffix: M1-M3-0: 0.56	Suffix: M1|M3-0: 0.44	
+Suffix: M1-M3-0: 0.499	Suffix: M1|M3-0: 0.501	
+Suffix: M1-M3-0: 0.597	Suffix: M1|M3-0: 0.403	
+Suffix: M1-M3-0: 0.491	Suffix: M1|M3-0: 0.509	
+Suffix: M1-M3-0: 0.529	Suffix: M1|M3-0: 0.471	
+Suffix: M1-M3-0: 0.478	Suffix: M1|M3-0: 0.522	
+Suffix: M1-M3-0: 0.546	Suffix: M1|M3-0: 0.454	
+Suffix: M1-M3-0: 0.592	Suffix: M1|M3-0: 0.408	
+Suffix: M1-M3-0: 0.442	Suffix: M1|M3-0: 0.558	
+Suffix: M1-M3-0: 0.486	Suffix: M1|M3-0: 0.514	
+Suffix: M1-M3-0: 0.497	Suffix: M1|M3-0: 0.503	
+Suffix: M1-M3-0: 0.495	Suffix: M1|M3-0: 0.505	
+Suffix: M1-M3-0: 0.509	Suffix: M1|M3-0: 0.491	
+Suffix: M1-M3-0: 0.446	Suffix: M1|M3-0: 0.554	
+Suffix: M1-M3-0: 0.554	Suffix: M1|M3-0: 0.446	
+Suffix: M1-M3-0: 0.787	Suffix: M1|M3-0: 0.213	
+Suffix: M1-M3-0: 0.477	Suffix: M1|M3-0: 0.523	
+Suffix: M1-M3-0: 0.555	Suffix: M1|M3-0: 0.445	
+Suffix: M1-M3-0: 0.762	Suffix: M1|M3-0: 0.238	
+Suffix: M1-M3-0: 0.449	Suffix: M1|M3-0: 0.551	
+20 files
+--------Total (suffixes)----------
+M1-M3-0: 0.538
+M1|M3-0: 0.462
+[elsner.14@unity-1 fst]$ python script/posteriorReduction.py scratch/report-I100
+R: 0.249 -R: 0.751
+R: 0.271 -R: 0.729
+R: 0.279 -R: 0.721
+R: 0.263 -R: 0.737
+R: 0.255 -R: 0.745
+R: 0.251 -R: 0.749
+R: 0.281 -R: 0.719
+R: 0.287 -R: 0.713
+R: 0.238 -R: 0.762
+R: 0.25 -R: 0.75
+R: 0.295 -R: 0.705
+R: 0.258 -R: 0.742
+R: 0.34 -R: 0.66
+R: 0.234 -R: 0.766
+R: 0.252 -R: 0.748
+R: 0.247 -R: 0.753
+R: 0.254 -R: 0.746
+R: 0.256 -R: 0.744
+R: 0.237 -R: 0.763
+R: 0.223 -R: 0.777
+-------Total--------
+R: 0.261 -R: 0.739

@@ -73,6 +73,21 @@ directory]`.
 You can also use `dumpFeatures.py` and `dumpLexicon.py` to see what
 the model has learned about the individual morphemes.
 
+```
+python script/dumpLexicon.py scratch/report-A/scratch-lexicon-A-fst.txt-trained-0
+Symbol "M1=I" ->
+	 ta 0.981008305060401
+	 t 0.0146266772945044
+	  0.000144518903795198
+	 tu 7.26618994934006e-05
+Symbol "M1=II" ->
+	 mu 0.968109347395744
+	 muak 0.0183001554885103
+	 m 0.00699348535334923
+	  0.000137494654895279
+...
+```
+
 ## Our actual results
 
 See the `data` directory for input files and the `doc` directory for
